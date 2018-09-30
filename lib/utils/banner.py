@@ -26,7 +26,7 @@ def credits():
     print(r+" |____/ \__,_| .__/ \___|_|   |_| \_|_____|____/ "+e)
     print(r+"             |_|                                  "+e)
     print(b+"                          Super Nmap Easy Scanner"+e)
-    print("                                          v0.1.0")
+    print("                                          v0.1 beta")
     
     print(g+"______██████████████"+e)
     print(g+"-____██▓▓▓▓▓▓▓▓▓ M ▓████"+e)

@@ -29,8 +29,9 @@ import sys
 from subprocess import Popen, PIPE
 
 # -- lib
-import lib.utils.color
-from lib.utils.banner import credits
+#import lib.utils.color
+from lib.utils.color import *
+from lib.utils.banner import * 
 
 # Definition of colors
 r = lib.utils.color.colors().red(1)
@@ -113,7 +114,7 @@ def menu1():
 	# Set menuExit to False
 	menuExit = False
 	
-	while not menuExit: # mientras menuExit no sea True 
+	while not menuExit: # while menuExit is not True 
 
 		print("\n-------------------------------------")
 		print(g+"        ##################"+e)

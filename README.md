@@ -27,7 +27,7 @@ You can download the latest version of SuperNES by cloning the GitHub repository
 Features
 ========
 
-v0.1.0
+v0.1 beta
 
 **Ping Scan**
 - nmap -sn -oA ./results_SuperNES/ping_scan [IP or Network]
